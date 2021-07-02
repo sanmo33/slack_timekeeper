@@ -1,0 +1,7 @@
+.vscode
+config.ini
+token.pickle
+credentials.json
+__pycache__
+exe.sh
+deleted_ts.txt
